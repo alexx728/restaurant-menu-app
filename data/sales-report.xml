@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GeneratedAt>2026-11-08T20:24:35.8500133+02:00</GeneratedAt>
+  <PaidOrders>9000</PaidOrders>
+  <Total>2109728.0</Total>
+  <Categories>
+    <CategorySales>
+      <Category>Десерти</Category>
+      <Quantity>7933</Quantity>
+      <Revenue>869998</Revenue>
+    </CategorySales>
+    <CategorySales>
+      <Category>Комбо</Category>
+      <Quantity>705</Quantity>
+      <Revenue>95175.0</Revenue>
+    </CategorySales>
+    <CategorySales>
+      <Category>Напої</Category>
+      <Quantity>10409</Quantity>
+      <Revenue>630331</Revenue>
+    </CategorySales>
+    <CategorySales>
+      <Category>Основні страви</Category>
+      <Quantity>7953</Quantity>
+      <Revenue>514224</Revenue>
+    </CategorySales>
+  </Categories>
+</SalesReport>
