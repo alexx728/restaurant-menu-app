@@ -1,0 +1,1051 @@
+{
+  "version": 1,
+  "menu": [
+    {
+      "id": "b45cc11b-95ed-4bba-9cf8-bb827b584563",
+      "kind": "Dish",
+      "name": "Страва 01",
+      "category": "Основні страви",
+      "price": 43,
+      "portionSize": 101,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "462493ae-d3b6-44c2-955e-226d3920068f",
+      "kind": "Dish",
+      "name": "Страва 02",
+      "category": "Основні страви",
+      "price": 46,
+      "portionSize": 102,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "1bb3a8fb-1c45-4683-8c20-23642586dec8",
+      "kind": "Dish",
+      "name": "Страва 03",
+      "category": "Основні страви",
+      "price": 49,
+      "portionSize": 103,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "9d9d2315-c62c-48f6-a867-0e29a16d85fd",
+      "kind": "Dish",
+      "name": "Страва 04",
+      "category": "Основні страви",
+      "price": 52,
+      "portionSize": 104,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "67b0445b-34f7-4a91-bf19-68e9188a7832",
+      "kind": "Dish",
+      "name": "Страва 05",
+      "category": "Основні страви",
+      "price": 55,
+      "portionSize": 105,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "eaad70a8-e818-48be-9d75-e3920393932c",
+      "kind": "Dish",
+      "name": "Страва 06",
+      "category": "Основні страви",
+      "price": 58,
+      "portionSize": 106,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "cd73928e-fb1b-4544-ba69-db1b33eaf413",
+      "kind": "Dish",
+      "name": "Страва 07",
+      "category": "Основні страви",
+      "price": 61,
+      "portionSize": 107,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "ef8db661-20e2-4ce8-b429-64c3eed0a237",
+      "kind": "Dish",
+      "name": "Страва 08",
+      "category": "Основні страви",
+      "price": 64,
+      "portionSize": 108,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "f7d4d138-222c-429c-a162-84fd6b29ec34",
+      "kind": "Dish",
+      "name": "Страва 09",
+      "category": "Основні страви",
+      "price": 67,
+      "portionSize": 109,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "1469542e-20e6-4c2a-8fdd-17c702f5ee10",
+      "kind": "Dish",
+      "name": "Страва 10",
+      "category": "Основні страви",
+      "price": 70,
+      "portionSize": 110,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "dad09a1c-ac08-4d75-b136-23642a896ae7",
+      "kind": "Dish",
+      "name": "Страва 11",
+      "category": "Основні страви",
+      "price": 73,
+      "portionSize": 111,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "1c9fa616-4c69-498a-8d06-57b540ed42af",
+      "kind": "Dish",
+      "name": "Страва 12",
+      "category": "Основні страви",
+      "price": 76,
+      "portionSize": 112,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "a9d8dc00-a8a7-4096-9c86-4751249a4c61",
+      "kind": "Dish",
+      "name": "Страва 13",
+      "category": "Основні страви",
+      "price": 79,
+      "portionSize": 113,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "dc339236-e18f-489d-a02b-a33a0a97af01",
+      "kind": "Dish",
+      "name": "Страва 14",
+      "category": "Основні страви",
+      "price": 82,
+      "portionSize": 114,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "c20921bc-048f-4db2-864d-db226479ab8e",
+      "kind": "Dish",
+      "name": "Страва 15",
+      "category": "Основні страви",
+      "price": 85,
+      "portionSize": 115,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "f7f709c8-3104-41b7-a525-b80ced6e7848",
+      "kind": "Dish",
+      "name": "Страва 16",
+      "category": "Десерти",
+      "price": 88,
+      "portionSize": 116,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "abfb0d2a-82a2-4423-a218-b550fb198fb0",
+      "kind": "Dish",
+      "name": "Страва 17",
+      "category": "Десерти",
+      "price": 91,
+      "portionSize": 117,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "46c8c9f1-4001-4886-aff2-2561050e0e17",
+      "kind": "Dish",
+      "name": "Страва 18",
+      "category": "Десерти",
+      "price": 94,
+      "portionSize": 118,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "71cbd471-0241-4a5b-ab4a-cf6b9963c4de",
+      "kind": "Dish",
+      "name": "Страва 19",
+      "category": "Десерти",
+      "price": 97,
+      "portionSize": 119,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "bdec9c99-ba5d-4a08-877e-6fb9778a4a3b",
+      "kind": "Dish",
+      "name": "Страва 20",
+      "category": "Десерти",
+      "price": 100,
+      "portionSize": 120,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "cecdb2d2-3aa3-4538-ae62-fcea3370f321",
+      "kind": "Dish",
+      "name": "Страва 21",
+      "category": "Десерти",
+      "price": 103,
+      "portionSize": 121,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "a7bebd3a-c196-49e9-bc34-b18b63fcf934",
+      "kind": "Dish",
+      "name": "Страва 22",
+      "category": "Десерти",
+      "price": 106,
+      "portionSize": 122,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "bb16cc8b-d582-4806-a9f8-5401ff08166e",
+      "kind": "Dish",
+      "name": "Страва 23",
+      "category": "Десерти",
+      "price": 109,
+      "portionSize": 123,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "491deeb9-f03f-4c20-9a4a-5f3f33cbcdc4",
+      "kind": "Dish",
+      "name": "Страва 24",
+      "category": "Десерти",
+      "price": 112,
+      "portionSize": 124,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "1cd6159e-a21e-47b3-a4e9-df14e10ffe29",
+      "kind": "Dish",
+      "name": "Страва 25",
+      "category": "Десерти",
+      "price": 115,
+      "portionSize": 125,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "db11415b-0d1f-4617-826e-b4ad8204d624",
+      "kind": "Dish",
+      "name": "Страва 26",
+      "category": "Десерти",
+      "price": 118,
+      "portionSize": 126,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "1de6d131-eed1-44c1-a353-2dde7d6ba20a",
+      "kind": "Dish",
+      "name": "Страва 27",
+      "category": "Десерти",
+      "price": 121,
+      "portionSize": 127,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "d0b2a8c5-0a5a-47ef-8078-5f781d49c0da",
+      "kind": "Dish",
+      "name": "Страва 28",
+      "category": "Десерти",
+      "price": 124,
+      "portionSize": 128,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "62a7291a-349c-4d1d-baaa-9499723c015d",
+      "kind": "Dish",
+      "name": "Страва 29",
+      "category": "Десерти",
+      "price": 127,
+      "portionSize": 129,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "f946368d-225a-4063-b4fc-6582fbc90223",
+      "kind": "Dish",
+      "name": "Страва 30",
+      "category": "Десерти",
+      "price": 130,
+      "portionSize": 130,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "5eb83583-cd81-48a5-a3fa-879a0c6d81d8",
+      "kind": "Drink",
+      "name": "Напій 31",
+      "category": "Напої",
+      "price": 51,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "4bd447a4-5c13-480b-905c-0968fb95e775",
+      "kind": "Drink",
+      "name": "Напій 32",
+      "category": "Напої",
+      "price": 52,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "d8151dc1-022f-467d-b4a1-8a4325171025",
+      "kind": "Drink",
+      "name": "Напій 33",
+      "category": "Напої",
+      "price": 53,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "2f14188a-22a0-41f1-8e86-43f89097a65e",
+      "kind": "Drink",
+      "name": "Напій 34",
+      "category": "Напої",
+      "price": 54,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "9559f986-fd6f-4af5-9fd5-5dc0f896447a",
+      "kind": "Drink",
+      "name": "Напій 35",
+      "category": "Напої",
+      "price": 55,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "b02caa91-dd58-4fe4-aa90-6d6623b87754",
+      "kind": "Drink",
+      "name": "Напій 36",
+      "category": "Напої",
+      "price": 56,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "ef126873-78a5-423e-8c30-da2b43a71458",
+      "kind": "Drink",
+      "name": "Напій 37",
+      "category": "Напої",
+      "price": 57,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "82eac9d6-a197-47d3-8c78-b3567e7c0986",
+      "kind": "Drink",
+      "name": "Напій 38",
+      "category": "Напої",
+      "price": 58,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "3896f5ca-faeb-4a75-adf1-ea12303967de",
+      "kind": "Drink",
+      "name": "Напій 39",
+      "category": "Напої",
+      "price": 59,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "b1f0f9e2-b360-4ea8-afdf-9c1e991d9b1c",
+      "kind": "Drink",
+      "name": "Напій 40",
+      "category": "Напої",
+      "price": 60,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "e3bc3cf0-688a-4c91-adc0-30f3bd6dd7dc",
+      "kind": "Drink",
+      "name": "Напій 41",
+      "category": "Напої",
+      "price": 61,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "4f3d19d7-6fee-4aa7-a0c7-d8d6ae573529",
+      "kind": "Drink",
+      "name": "Напій 42",
+      "category": "Напої",
+      "price": 62,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "a7f3d5d9-a62e-47ed-a0b0-fd5f7997b644",
+      "kind": "Drink",
+      "name": "Напій 43",
+      "category": "Напої",
+      "price": 63,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "bdfcf9a4-7f0f-4bb6-bdd3-41257ce38f0b",
+      "kind": "Drink",
+      "name": "Напій 44",
+      "category": "Напої",
+      "price": 64,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "a8ba87a8-fee1-4bdc-9e1d-34ca3813297a",
+      "kind": "Drink",
+      "name": "Напій 45",
+      "category": "Напої",
+      "price": 65,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "be407493-ef9f-4968-8703-5ba043978be5",
+      "kind": "Drink",
+      "name": "Напій 46",
+      "category": "Напої",
+      "price": 66,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "30ca97af-85eb-4465-b65f-e7e791e1fbe9",
+      "kind": "Drink",
+      "name": "Напій 47",
+      "category": "Напої",
+      "price": 67,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "fda5ac97-ef6b-4d13-8651-0a2420728691",
+      "kind": "Drink",
+      "name": "Напій 48",
+      "category": "Напої",
+      "price": 68,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "a25f3532-c6bc-442c-88b9-9c619fdc6b91",
+      "kind": "Drink",
+      "name": "Напій 49",
+      "category": "Напої",
+      "price": 69,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "85b0f31d-7746-4137-aa8b-a176c36712ca",
+      "kind": "Drink",
+      "name": "Напій 50",
+      "category": "Напої",
+      "price": 70,
+      "portionSize": 250,
+      "isAvailable": true,
+      "discountPercent": 0,
+      "itemIds": []
+    },
+    {
+      "id": "b546d49c-9e6c-45c8-87bd-5223231cc4b1",
+      "kind": "ComboSet",
+      "name": "Обідній набір",
+      "category": "Комбо",
+      "price": 150,
+      "portionSize": 1,
+      "isAvailable": true,
+      "discountPercent": 10,
+      "itemIds": [
+        "b45cc11b-95ed-4bba-9cf8-bb827b584563",
+        "5eb83583-cd81-48a5-a3fa-879a0c6d81d8"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "070cc677-176f-4d6e-b060-1920ab58330b",
+      "tableNumber": 1,
+      "createdAt": "2026-11-08T18:04:35.9426482+00:00",
+      "status": "New",
+      "lines": [
+        {
+          "id": "8443b0e2-4f18-4da8-b28f-5ea24cb8f6a1",
+          "menuItemId": "b45cc11b-95ed-4bba-9cf8-bb827b584563",
+          "name": "Страва 01",
+          "category": "Основні страви",
+          "unitPrice": 43,
+          "quantity": 1
+        },
+        {
+          "id": "e20ad892-6b88-4ef2-aa6b-9021fdff8327",
+          "menuItemId": "ef8db661-20e2-4ce8-b429-64c3eed0a237",
+          "name": "Страва 08",
+          "category": "Основні страви",
+          "unitPrice": 64,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "108e8e45-dd74-443b-b32e-f635d4145400",
+      "tableNumber": 2,
+      "createdAt": "2026-11-08T18:05:35.9426571+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "5f6d8d97-c9a8-4c1b-8552-63c9a1cbb216",
+          "menuItemId": "462493ae-d3b6-44c2-955e-226d3920068f",
+          "name": "Страва 02",
+          "category": "Основні страви",
+          "unitPrice": 46,
+          "quantity": 2
+        },
+        {
+          "id": "dc3e8633-178c-4d70-ac85-6797d319becf",
+          "menuItemId": "f7d4d138-222c-429c-a162-84fd6b29ec34",
+          "name": "Страва 09",
+          "category": "Основні страви",
+          "unitPrice": 67,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "44c5ba8d-26c3-48a9-b0c2-5028c51ed865",
+      "tableNumber": 3,
+      "createdAt": "2026-11-08T18:06:35.9426614+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "6529c51e-3119-4ecb-bd0b-0b80f9bbca43",
+          "menuItemId": "1bb3a8fb-1c45-4683-8c20-23642586dec8",
+          "name": "Страва 03",
+          "category": "Основні страви",
+          "unitPrice": 49,
+          "quantity": 3
+        },
+        {
+          "id": "090a052b-3533-42cb-a2f2-97562e122bad",
+          "menuItemId": "1469542e-20e6-4c2a-8fdd-17c702f5ee10",
+          "name": "Страва 10",
+          "category": "Основні страви",
+          "unitPrice": 70,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "acde5e83-8d76-4188-9956-282710c6ca35",
+      "tableNumber": 4,
+      "createdAt": "2026-11-08T18:07:35.9426652+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "81f048b9-e045-4c26-9bbe-0dee1e3d3b88",
+          "menuItemId": "9d9d2315-c62c-48f6-a867-0e29a16d85fd",
+          "name": "Страва 04",
+          "category": "Основні страви",
+          "unitPrice": 52,
+          "quantity": 1
+        },
+        {
+          "id": "345d2ea0-46d7-49e8-ac0c-4d97bd57738f",
+          "menuItemId": "dad09a1c-ac08-4d75-b136-23642a896ae7",
+          "name": "Страва 11",
+          "category": "Основні страви",
+          "unitPrice": 73,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "ed09fdde-28cd-4b24-8d9b-973ac14e280d",
+      "tableNumber": 5,
+      "createdAt": "2026-11-08T18:08:35.9426686+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "a6350614-8e59-40f3-90c7-a409bbc0a8ec",
+          "menuItemId": "67b0445b-34f7-4a91-bf19-68e9188a7832",
+          "name": "Страва 05",
+          "category": "Основні страви",
+          "unitPrice": 55,
+          "quantity": 2
+        },
+        {
+          "id": "f5e9aa6f-57b9-486f-a03b-0388a809f359",
+          "menuItemId": "1c9fa616-4c69-498a-8d06-57b540ed42af",
+          "name": "Страва 12",
+          "category": "Основні страви",
+          "unitPrice": 76,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "69adb59b-8ab8-4be0-92fd-56c7a24f14c3",
+      "tableNumber": 6,
+      "createdAt": "2026-11-08T18:09:35.9426721+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "dd3b1db3-f250-41a7-8371-eaba1ec2dedb",
+          "menuItemId": "eaad70a8-e818-48be-9d75-e3920393932c",
+          "name": "Страва 06",
+          "category": "Основні страви",
+          "unitPrice": 58,
+          "quantity": 3
+        },
+        {
+          "id": "7f878477-8cf3-489a-9fd7-64ce9e7fee51",
+          "menuItemId": "a9d8dc00-a8a7-4096-9c86-4751249a4c61",
+          "name": "Страва 13",
+          "category": "Основні страви",
+          "unitPrice": 79,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "e46278be-98de-4755-bc04-fc35db3eb47d",
+      "tableNumber": 7,
+      "createdAt": "2026-11-08T18:10:35.9426759+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "1861ed3e-e8c9-47c1-84d6-db9766b0d065",
+          "menuItemId": "cd73928e-fb1b-4544-ba69-db1b33eaf413",
+          "name": "Страва 07",
+          "category": "Основні страви",
+          "unitPrice": 61,
+          "quantity": 1
+        },
+        {
+          "id": "f6801165-fbcf-464b-9b98-a2322a432a03",
+          "menuItemId": "dc339236-e18f-489d-a02b-a33a0a97af01",
+          "name": "Страва 14",
+          "category": "Основні страви",
+          "unitPrice": 82,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "6c66803d-0d15-4d38-8b8e-cfcb7ded320f",
+      "tableNumber": 8,
+      "createdAt": "2026-11-08T18:11:35.9426793+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "f72107f9-21e9-4dfd-90ae-523e442ab95c",
+          "menuItemId": "ef8db661-20e2-4ce8-b429-64c3eed0a237",
+          "name": "Страва 08",
+          "category": "Основні страви",
+          "unitPrice": 64,
+          "quantity": 2
+        },
+        {
+          "id": "56a2b1ce-5eae-4472-aec6-f407d14aba9b",
+          "menuItemId": "c20921bc-048f-4db2-864d-db226479ab8e",
+          "name": "Страва 15",
+          "category": "Основні страви",
+          "unitPrice": 85,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "8777756f-a0b4-488f-9536-499061d2673c",
+      "tableNumber": 9,
+      "createdAt": "2026-11-08T18:12:35.942683+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "b38dda5a-0537-4007-a795-13fee008faa6",
+          "menuItemId": "f7d4d138-222c-429c-a162-84fd6b29ec34",
+          "name": "Страва 09",
+          "category": "Основні страви",
+          "unitPrice": 67,
+          "quantity": 3
+        },
+        {
+          "id": "cf8542d4-6483-4fa8-bd64-2810ea71b5c9",
+          "menuItemId": "f7f709c8-3104-41b7-a525-b80ced6e7848",
+          "name": "Страва 16",
+          "category": "Десерти",
+          "unitPrice": 88,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "05231259-cc71-4af2-97cc-31ebd78d62e3",
+      "tableNumber": 10,
+      "createdAt": "2026-11-08T18:13:35.9426877+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "ee756436-aba7-4ed3-9b38-735c2dcee5e6",
+          "menuItemId": "1469542e-20e6-4c2a-8fdd-17c702f5ee10",
+          "name": "Страва 10",
+          "category": "Основні страви",
+          "unitPrice": 70,
+          "quantity": 1
+        },
+        {
+          "id": "a37a653f-f6b1-42ed-a14b-7f78a74a574d",
+          "menuItemId": "abfb0d2a-82a2-4423-a218-b550fb198fb0",
+          "name": "Страва 17",
+          "category": "Десерти",
+          "unitPrice": 91,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "58194331-6022-49de-9c01-16ca47a39bea",
+      "tableNumber": 11,
+      "createdAt": "2026-11-08T18:14:35.9426911+00:00",
+      "status": "New",
+      "lines": [
+        {
+          "id": "46614b1e-af64-40ba-a0db-1e132867fbdd",
+          "menuItemId": "dad09a1c-ac08-4d75-b136-23642a896ae7",
+          "name": "Страва 11",
+          "category": "Основні страви",
+          "unitPrice": 73,
+          "quantity": 2
+        },
+        {
+          "id": "660fbdff-a7e2-491d-ad66-45d22d45e857",
+          "menuItemId": "46c8c9f1-4001-4886-aff2-2561050e0e17",
+          "name": "Страва 18",
+          "category": "Десерти",
+          "unitPrice": 94,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "189eef8b-2a8c-47bb-93fd-e978c989912d",
+      "tableNumber": 12,
+      "createdAt": "2026-11-08T18:15:35.9426947+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "4005c930-749a-4547-bf83-7efeaa9612e0",
+          "menuItemId": "1c9fa616-4c69-498a-8d06-57b540ed42af",
+          "name": "Страва 12",
+          "category": "Основні страви",
+          "unitPrice": 76,
+          "quantity": 3
+        },
+        {
+          "id": "6083577f-3313-4cc4-9f12-26252e2409ea",
+          "menuItemId": "71cbd471-0241-4a5b-ab4a-cf6b9963c4de",
+          "name": "Страва 19",
+          "category": "Десерти",
+          "unitPrice": 97,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "eeaf9e6d-3d1a-44d1-90d1-e8db8ddf8165",
+      "tableNumber": 13,
+      "createdAt": "2026-11-08T18:16:35.9426981+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "157b3ef6-6094-4f86-b52e-6b650b1ac6e1",
+          "menuItemId": "a9d8dc00-a8a7-4096-9c86-4751249a4c61",
+          "name": "Страва 13",
+          "category": "Основні страви",
+          "unitPrice": 79,
+          "quantity": 1
+        },
+        {
+          "id": "16bc4a54-ec93-4dca-9fd4-a5206da6adda",
+          "menuItemId": "bdec9c99-ba5d-4a08-877e-6fb9778a4a3b",
+          "name": "Страва 20",
+          "category": "Десерти",
+          "unitPrice": 100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "cc73e870-12d9-421a-8851-72860ae6a292",
+      "tableNumber": 14,
+      "createdAt": "2026-11-08T18:17:35.9427014+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "d1f36bd9-f083-4ead-a0f2-158bfa8263be",
+          "menuItemId": "dc339236-e18f-489d-a02b-a33a0a97af01",
+          "name": "Страва 14",
+          "category": "Основні страви",
+          "unitPrice": 82,
+          "quantity": 2
+        },
+        {
+          "id": "696951a4-066a-4163-847f-62f85c309893",
+          "menuItemId": "cecdb2d2-3aa3-4538-ae62-fcea3370f321",
+          "name": "Страва 21",
+          "category": "Десерти",
+          "unitPrice": 103,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "988d5d00-a80b-4d67-899d-e3bf0cbf2e5f",
+      "tableNumber": 15,
+      "createdAt": "2026-11-08T18:18:35.942705+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "04d2a2bb-b568-4f2a-8d8b-bd95ed1bdd84",
+          "menuItemId": "c20921bc-048f-4db2-864d-db226479ab8e",
+          "name": "Страва 15",
+          "category": "Основні страви",
+          "unitPrice": 85,
+          "quantity": 3
+        },
+        {
+          "id": "43fb2b9c-b107-4ab6-90e4-6c1831e8db5a",
+          "menuItemId": "a7bebd3a-c196-49e9-bc34-b18b63fcf934",
+          "name": "Страва 22",
+          "category": "Десерти",
+          "unitPrice": 106,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "aa6d5c0a-1a96-4fa1-84bd-4c8bda13f5b4",
+      "tableNumber": 16,
+      "createdAt": "2026-11-08T18:19:35.9427083+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "28f1a380-52ff-4c65-a5e6-0ffbb9e38915",
+          "menuItemId": "f7f709c8-3104-41b7-a525-b80ced6e7848",
+          "name": "Страва 16",
+          "category": "Десерти",
+          "unitPrice": 88,
+          "quantity": 1
+        },
+        {
+          "id": "5797d114-c041-4d1c-b3d9-c400bcaadaf9",
+          "menuItemId": "bb16cc8b-d582-4806-a9f8-5401ff08166e",
+          "name": "Страва 23",
+          "category": "Десерти",
+          "unitPrice": 109,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "e38af4df-2421-4cc6-8291-3963f2058fed",
+      "tableNumber": 17,
+      "createdAt": "2026-11-08T18:20:35.9427121+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "d8d21a4c-99d9-4aac-bce7-49793820a311",
+          "menuItemId": "abfb0d2a-82a2-4423-a218-b550fb198fb0",
+          "name": "Страва 17",
+          "category": "Десерти",
+          "unitPrice": 91,
+          "quantity": 2
+        },
+        {
+          "id": "4a8de122-4edb-4e4c-98e2-20175b511191",
+          "menuItemId": "491deeb9-f03f-4c20-9a4a-5f3f33cbcdc4",
+          "name": "Страва 24",
+          "category": "Десерти",
+          "unitPrice": 112,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "ac4f8dc7-8b57-4811-9fb6-1eab203750db",
+      "tableNumber": 18,
+      "createdAt": "2026-11-08T18:21:35.9427157+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "df1fe470-c1f0-483d-a740-70653405c62a",
+          "menuItemId": "46c8c9f1-4001-4886-aff2-2561050e0e17",
+          "name": "Страва 18",
+          "category": "Десерти",
+          "unitPrice": 94,
+          "quantity": 3
+        },
+        {
+          "id": "b6b390a7-7c8e-42af-8fa7-dd39efecca28",
+          "menuItemId": "1cd6159e-a21e-47b3-a4e9-df14e10ffe29",
+          "name": "Страва 25",
+          "category": "Десерти",
+          "unitPrice": 115,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "97af9aa5-05f7-461e-8358-601a810f1017",
+      "tableNumber": 19,
+      "createdAt": "2026-11-08T18:22:35.9427191+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "c037513a-6153-45fd-9faf-1b7aa849aa8a",
+          "menuItemId": "71cbd471-0241-4a5b-ab4a-cf6b9963c4de",
+          "name": "Страва 19",
+          "category": "Десерти",
+          "unitPrice": 97,
+          "quantity": 1
+        },
+        {
+          "id": "e0b4a1ca-252c-4828-937b-b239491e0525",
+          "menuItemId": "db11415b-0d1f-4617-826e-b4ad8204d624",
+          "name": "Страва 26",
+          "category": "Десерти",
+          "unitPrice": 118,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "6eb1de85-5b24-4216-90a9-ac76eada99a1",
+      "tableNumber": 20,
+      "createdAt": "2026-11-08T18:23:35.9427229+00:00",
+      "status": "Paid",
+      "lines": [
+        {
+          "id": "251cb1ef-7045-4861-9963-fc8707857425",
+          "menuItemId": "bdec9c99-ba5d-4a08-877e-6fb9778a4a3b",
+          "name": "Страва 20",
+          "category": "Десерти",
+          "unitPrice": 100,
+          "quantity": 2
+        },
+        {
+          "id": "32ed6f82-87da-4ac5-8e5d-a4b6dfcf2462",
+          "menuItemId": "1de6d131-eed1-44c1-a353-2dde7d6ba20a",
+          "name": "Страва 27",
+          "category": "Десерти",
+          "unitPrice": 121,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

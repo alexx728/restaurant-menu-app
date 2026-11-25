@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/checks/">
+    <Project Path="checks/Restaurant.Desktop.Checks/Restaurant.Desktop.Checks.csproj" />
+    <Project Path="checks/Restaurant.Domain.Checks/Restaurant.Domain.Checks.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Restaurant.Desktop/Restaurant.Desktop.csproj" />
+    <Project Path="src/Restaurant.Domain/Restaurant.Domain.csproj" />
+  </Folder>
+</Solution>
